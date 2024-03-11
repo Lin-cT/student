@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: Calculator MD
+title: Calculator
 description: Grab of the Calculator from APCSA repo.
 type: tangibles
 courses: { compsci: {week: 2} }

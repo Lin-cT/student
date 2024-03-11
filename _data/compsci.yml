@@ -1,11 +1,36 @@
 # CSP course meta data
 Unit1:
-  title: Build a Lab Notebook
+  title: Build a Lab Notebook (Tri 1)
   description:  Install Tools.  Design lab notebook.  Learn GitHub Pages. Work with Pair (pair name). 
   start: 0
   end: 3
 Unit2:
-  title: Learn Language
+  title: Learn Language (Tri 1)
   description: Learn (JavaScript|Python|Java).  Start Agile development process.
   start: 4
   end: 7
+Unit3:
+  title: Team Projects (Tri 1)
+  description: Start working in groups to complete a passion project
+  start: 8
+  end: 11
+Unit3:
+  title: Team Projects (Tri 1)
+  description: Start working in groups to complete a passion project
+  start: 8
+  end: 11
+Unit4:
+  title: CPT Project (Tri 2)
+  description: New teams and working on binary project.
+  start: 12
+  end: 17
+Unit5:
+  title: N@tM (Tri 2)
+  description: Preparing for the main project.
+  start: 18
+  end: 23
+Unit6:
+  title: New Groups (Tri 3)
+  description: Dealing with Pandas and integration of projects.
+  start: 24
+  end: 29
